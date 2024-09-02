@@ -1,0 +1,124 @@
+*{
+    margin: auto;
+}
+.head{
+    background-color:orangered;
+    height: 110px;
+    width: 100%;
+    position: fixed;
+}
+body{
+    background-color:whitesmoke;
+}
+.return{
+    text-decoration: none;
+    color: aliceblue;
+}
+.img1{
+    margin-left: 79px;
+    margin-top: -60px;
+    border-radius: 40px;
+}
+.op{
+    font-size: 50px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+.ADVENUTRE{
+    font-size: 40px;
+    margin-left: 140px;
+    margin-top: -68px;
+    border-radius: 40px;
+    background-color:orangered;
+    width: 250px;
+    height: 50px;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+.talktoexpert{
+    padding-top: 25px;
+    font-size: large;
+    line-height: 20px;
+}
+.logo{
+    margin-left: 60px;
+}
+.talktoexpert1{
+    margin-left: 1200px;
+    margin-top: 0px;
+    padding-top: 0px;
+    color: whitesmoke;
+}
+.talktoexpert2{
+    margin-left: 1240px;
+    color: whitesmoke;
+}
+.inside{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+    padding: 10px 20px;
+    padding-left: 145px;
+    box-shadow: 2px 2px 8px black;
+}  
+.line{
+    background-color: black;
+    width: 100%;
+    height: 2px;
+    /* box-shadow: 2px 2px 0px black; */
+}
+.navbar{
+    color: black;
+}
+.ctn1{
+    text-align: center;
+    word-spacing: 4px;
+    margin-top: 5px;
+}
+.op1{
+    /* border: solid black; */
+    height: 300px;
+    width: 90%;
+}
+.query{
+    font-size:25px;
+    margin-top: 50px;
+    font-weight: bolder ;
+}
+.line1{
+    width: 100%;
+    height: 2px;
+    background-color: rgba(0, 0, 0, 0.331);
+    margin-top: 50px;
+}
+.dail{
+    margin-top: 15px;
+    font-size: 20px;
+    height: 100px;
+    width: 100%;
+}
+.dail1{
+    width: 100px;
+    font-size: larger;
+    font-weight: bolder;
+}
+.row{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    margin-left: 0px;
+    width: 100%;
+    justify-content: space-between;
+}
+.number{
+    font-weight: bolder;
+}
+.mail{
+    color: rgb(47, 150, 213);
+    cursor: pointer;
+}
+.write{
+    font-size:17px;
+    word-spacing: 4px;
+    color: rgba(0, 0, 0, 0.578);
+}
